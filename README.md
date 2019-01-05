@@ -8,4 +8,4 @@ Words are sorted by the nuber of appeariance and then exported as a csv file wit
 
 **Example:**
 
-wordCount <word> <file.txt>
+wordCount "word" "file.txt"
