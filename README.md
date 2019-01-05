@@ -1,4 +1,5 @@
 **Word counter**
+
 This Go program takes the text file and counts the words in the text.
 
 It returns the number of appearances of the word of interest in the text.
